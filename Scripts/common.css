@@ -1,9 +1,8 @@
-h1
-{
+h1 {
     background-color: green;
 }
-div.video_container
-{
-    background-color: red;
-        padding-top: 50px;
+
+div.video_container {
+    border: 5px solid tomato;
+    width: 560px;
 }
