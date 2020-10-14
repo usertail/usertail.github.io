@@ -1,8 +1,35 @@
 h1 {
-    background-color: green;
+    margin: 0;
 }
 
 div.video_container {
     border: 5px solid tomato;
     width: 560px;
+    margin: 0 auto;
+}
+
+.left_column {
+    float: left;
+    width: 40%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.middle_column {
+    float: left;
+    width: 45%;
+}
+
+.right_column {
+    float: left;
+    width: 15%;
+}
+
+div.title {
+    background-image: url("../images/grandcanyon.jpg");
+    height: 600px;
 }

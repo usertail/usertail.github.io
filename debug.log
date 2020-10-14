@@ -1,3 +1,4 @@
 [1012/194157.043:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
 [1012/195745.282:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1012/201644.234:ERROR:settings.cc(325)] Settings version is not 1
+[1012/203222.176:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
