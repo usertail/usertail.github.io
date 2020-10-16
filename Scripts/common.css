@@ -31,5 +31,66 @@ div.video_container {
 
 div.title {
     background-image: url("../images/grandcanyon.jpg");
-    height: 600px;
+    height: 760px;
 }
+
+div.title h1 {
+    line-height: 710px;
+    font-size: 60px;
+    color: white;
+    text-align: center;     
+}
+
+div.title .ytlink {
+    text-align: right;
+    padding-right:80px;
+    padding-top:20px;   
+}
+
+div.title .ytlink a:link {
+    color: black;
+    text-decoration: none;
+}
+
+div.title .ytlink a:hover {
+    color: #303030;
+    text-decoration: underline; 
+}
+
+div.title .ytlink a:visited {
+    color: #626262;
+    text-decoration: none
+}
+
+.columns{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column_far_left{
+    float: right;
+    width: 30%;
+}
+
+.column_closer_left{
+    float: left;
+    width: 20%;
+    margin-left: 200px;
+}
+
+.column_closer_right{
+    float: right;
+    width: 35%;
+}
+
+.column_far_right{
+    float: left;
+    width: 15%;
+}
+
+body {
+    margin: 0;
+    font-family:"Trebuchet MS";
+}
+
