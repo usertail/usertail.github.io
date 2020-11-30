@@ -30,7 +30,7 @@ div.video_container {
 }
 
 div.title {
-    background-image: url("../images/grandcanyon.jpg");
+    background-image: url("/images/grandcanyon.jpg");
     height: 760px;
 }
 
