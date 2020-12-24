@@ -79,6 +79,7 @@ div.title .ytlink a:visited {
     
 }
 .column_middle_middle{
+    float: right;
     width: 75%;
     background-color: saddlebrown;
 }
