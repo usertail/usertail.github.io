@@ -70,24 +70,28 @@ div.title .ytlink a:visited {
 .column_far_left{
     float: right;
     width: 20%;
+    background-color: brown;
 }
 
 .column_closer_left{
     width: 20%;
-    font-size: 25px
+    font-size: 25px 
+    background-color violet 
 }
 .column_middle_middle{
     width: 75%;
-    background-color: blue;
+    background-color:green ;
 }
 .column_closer_right{
     float: left;
     width: 20%;
+    background-color: red;
 }
 
 .column_far_right{
     float: right;
     width: 20%;
+    background-color: blue;
 }
 
 body {
