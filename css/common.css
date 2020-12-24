@@ -79,8 +79,9 @@ div.title .ytlink a:visited {
     background-color violet 
 }
 .column_middle_middle{
+    float: right
     width: 75%;
-    background-color:green ;
+    background-color:green;
 }
 .column_closer_right{
     float: left;
