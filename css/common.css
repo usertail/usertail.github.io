@@ -70,7 +70,6 @@ div.title .ytlink a:visited {
 .column_far_left{
     float: right;
     width: 20%;
-    background-color: brown;
 }
 
 .column_closer_left{
@@ -79,17 +78,15 @@ div.title .ytlink a:visited {
 }
 .column_middle_middle{
     width: 75%;
-    background-color: rgb(223, 93, 0);
     margin-left: 500px;
 }
 .column_closer_right{
     width: 20%;
-    background-color: red;
 }
 
 .column_far_right{
     width: 20%;
-    background-color: blue;
+
 }
 
 body {
