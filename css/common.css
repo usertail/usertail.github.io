@@ -80,7 +80,8 @@ div.title .ytlink a:visited {
 .column_middle_middle{
     float: right;
     width: 75%;
-    background-color: saddlebrown;
+    background-color: rgb(223, 93, 0);
+    margin-left: 200px;
 }
 .column_closer_right{
     width: 20%;
