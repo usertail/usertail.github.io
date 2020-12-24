@@ -83,7 +83,7 @@ div.title .ytlink a:visited {
     background-color: blue;
 }
 .column_closer_right{
-    float: right;
+    float: left;
     width: 20%;
 }
 
