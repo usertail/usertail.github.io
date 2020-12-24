@@ -78,8 +78,8 @@ div.title .ytlink a:visited {
     font-size: 25px
 }
 .column_middle_middle{
-    float: left;
-    width: 50%;
+    float: middle;
+    width: 75%;
     background-color: blue;
 }
 .column_closer_right{
